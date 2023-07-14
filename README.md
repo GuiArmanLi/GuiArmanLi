@@ -15,5 +15,5 @@
   https://github.com/GuiArmanLi
 ```
 > Viva a vida e esteja consciente de sua existência 😎
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuiArmanLi&theme=javascript&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
