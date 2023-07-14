@@ -20,6 +20,6 @@
 <img align="right" width=350 height=350 src=https://github.com/leticiafrancielle/leticiafrancielle/assets/124750949/5b747324-03c3-4ec4-b2af-8dd5a79aef61/>
 
 <div>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiArmanLi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact&langs_count=7&theme=midnight-yellow"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiArmanLi&show_icons=true&theme=midnight-yellow&include_all_commits=true&count_private=true"/>
 </div>
