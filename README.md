@@ -16,4 +16,4 @@
 ```
 > Viva a vida e esteja consciente de sua existência 😎
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme%20Pessa&theme=yellowdark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuiArmanLi&theme=yellowdark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&type=png)](https://git.io/streak-stats)
