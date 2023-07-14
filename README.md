@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![Macaco com Coceira](https://i0.wp.com/amigosdepelotas.com.br/wp-content/uploads/2020/02/bicho-macaco-cocando-cabeca.jpg?fit=590%2C369&ssl=1))
+
 - if you wanna help me, share the bio below:
   ```
   https://github.com/GuiArmanLi
@@ -16,7 +16,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Letícia,+Welcome+to+my+Github+profile.💞)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=I'm+Full+Stack+Java+Developer+Jr.⚡)
-
+- ![Macaco com Coceira](https://i0.wp.com/amigosdepelotas.com.br/wp-content/uploads/2020/02/bicho-macaco-cocando-cabeca.jpg?fit=590%2C369&ssl=1))
 <img align="right" width=350 height=350 src=https://github.com/leticiafrancielle/leticiafrancielle/assets/124750949/5b747324-03c3-4ec4-b2af-8dd5a79aef61/>
 
 <div>
