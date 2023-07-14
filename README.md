@@ -39,7 +39,7 @@
   div {
     display: flex;
     flex-direction: row;
-    width: 50px;
+    width: 100;
   }
 </style>
 
