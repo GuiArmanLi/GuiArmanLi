@@ -15,8 +15,11 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact&langs_count=7&theme=yellow"/>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiArmanLi&show_icons=true&theme=yellow&include_all_commits=true&count_private=true"/>
 </div>
+
 - if you wanna help me, share the bio below to reach more people:
-  ```
+```
   https://github.com/GuiArmanLi
-  ```
-- > Viva a vida e esteja consciente de sua existência 😎
+```
+> Viva a vida e esteja consciente de sua existência 😎
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme%20Pessa&theme=yellowdark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
