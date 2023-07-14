@@ -35,6 +35,14 @@
   </ul>
 </div>
 
+<style>
+  div {
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+  }
+</style>
+
 - if you wanna help me, share the bio below to reach more people:
 ```
   https://github.com/GuiArmanLi
