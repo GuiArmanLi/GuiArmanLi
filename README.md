@@ -17,7 +17,6 @@
 <hr>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=GuiArmanLi&show_icons=true&theme=merko&hide_border=false&title_color=000000&text_color=000000&bg_color=f7df1e&icon_color=000000&)
-<br>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact)
 
 <hr>
