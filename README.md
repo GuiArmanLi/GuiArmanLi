@@ -5,13 +5,12 @@
   <a href="https://www.linkedin.com/in/guilherme-santana-pessa-5a6a72170/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5511946867628"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/guiarmanli/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://open.spotify.com/playlist/73Gysjf4l548TnFtlf1xHp?si=bnVbSVNjS8WpsVDzZLfvUQ&utm_source=whatsapp"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
 <hr>
 <div align="center">
   
-  ![Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact)
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact)
 </div>
 <hr>
 
