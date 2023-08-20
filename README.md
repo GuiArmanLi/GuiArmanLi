@@ -1,12 +1,5 @@
 [![Self Presentation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=EFD81D&vCenter=true&width=510&lines=Sup%2C+I'm+Guilherme+Pessa;Can+see+more+about+me%3F+Explore+my+profile!)](https://git.io/typing-svg)
 <hr>
-
-- 🔭 I’m currently working on Paixão Contábil
-- 🌱 I’m currently learning Programming
-- 👯 I’m looking to collaborate on Projects for the healthy of human being
-- ⚡ Fun fact: Maybe i don't have, if you can see something fun in my person, talk it to me!
-
-  
 <a href="mailto:guilhermepessa@gmail.com?subject=Contato do GitHub"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilherme-santana-pessa-5a6a72170/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5511946867628"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
