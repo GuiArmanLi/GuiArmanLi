@@ -6,8 +6,6 @@
   <a href="https://api.whatsapp.com/send?phone=5511946867628"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/guiarmanli/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-<hr>
 <div align="center">
   
   ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact)
