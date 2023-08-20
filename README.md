@@ -13,7 +13,7 @@
 </div>
 <hr>
 
-if you wanna help me, share the bio below to reach more people:
+<p align="center">if you wanna help me, share the bio below to reach more people:</p>
 ```
   https://github.com/GuiArmanLi
 ```
