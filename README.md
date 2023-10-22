@@ -4,10 +4,6 @@
 </div>
 
 <div align="center"">
-  <a href="https://app.daily.dev/GuiArmanLi">
-    <img src="https://api.daily.dev/devcards/8683e58a19204749be80e7a8c0abf25a.png?r=9nq" width="300" alt="Guilherme Santana Pessa's Dev Card"/>
-  </a>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiArmanLi&layout=compact" width="300" alt="Languages">
 <br>
 
