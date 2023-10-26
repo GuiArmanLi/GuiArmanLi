@@ -10,6 +10,7 @@
 </div>
 
 <div align="center">
+    <h3>Social Medias</h3>
   <a href="https://api.whatsapp.com/send?phone=5511946867628">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
@@ -19,4 +20,25 @@
   <a href="https://www.instagram.com/guiarmanli/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+</div>
+
+
+
+<div style="display: flex; flex-direction: column;" align="center">
+  <h3>Interests</h3>
+  <div style="flex: 1;">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  </div>
+  <div style="flex: 1;">
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  </div>
+  <div style="flex: 1;">
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  </div>
 </div>
