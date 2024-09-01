@@ -1,6 +1,9 @@
 <div align="center">
-  
-  [![Self Presentation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&color=6cb52d&vCenter=true&width=510&lines=Sup%2C+I'm+Guilherme+Pessa;Can+see+more+about+me%3F+Explore+my+profile!)](https://git.io/typing-svg)
+  <p>I'm Guilherme Pessa</p>
+</div>
+
+<div align="center">
+  <p>Can see more about me? Explore my profile!</p>
 </div>
 
 <div align="center"">
@@ -11,7 +14,7 @@
 
 <div align="center">
     <h3>Social Medias</h3>
-  <a href="https://api.whatsapp.com/send?phone=5511946867628">
+  <a href="https://api.whatsapp.com/send?phone=551193006741">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/guilherme-santana-pessa-5a6a72170/">
