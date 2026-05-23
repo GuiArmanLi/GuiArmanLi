@@ -57,7 +57,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/armanli/armanli/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <p>Se você quiser saber um pouco do meu gosto musical 👇 </p>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=sgo4b920aqpab45oii4sforxr" alt="my songs"/>
 </div>
 
 ###
