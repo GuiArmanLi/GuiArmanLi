@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Olá! Meus repositórios tem como principal objetivo documentar minha evolução nos estudos para me tornar um desenvolvedor de excelência!</p>
-<p>Atualmente, foco meus estudos em IA, DevOps, Web e Dados</p>
+<p>Atualmente, foco meus estudos em IA, DevOps e Web</p>
 <p>O que estou fazendo/fiz:</p>
 <p>🎓 Mestrando pela ❓ em ❓ na ❓</p>
 <p>👨🏻‍💻 Graduado em ADS na FATEC Ferraz | 🏃🏻‍♂️ Presidente da Atletica Sagui da Fatec</p>
